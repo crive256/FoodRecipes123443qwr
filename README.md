@@ -1,4 +1,4 @@
-<!-- (This is a comment) INSTRUCTIONS: Go through this page and fill out any **bolded** entries with their correct values.-->
+f<!-- (This is a comment) INSTRUCTIONS: Go through this page and fill out any **bolded** entries with their correct values.-->
 
 # AND101 Project 6 - CYOAPI Part 2: RecyclerView Edition
 
@@ -36,7 +36,7 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='https://i.imgur.com/bsCDiTa.mp4' title='Digimon' width='600' alt='Video Demo' />
+<img src='https://imgur.com/a/cmH6RSP' title='Digimon' width='600' alt='Video Demo' />
 
 GIF created with **your chosen GIF tool**
 
