@@ -36,7 +36,7 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='https://i.imgur.com/gp2c4qz.gifv' title='Digimon' width='600' alt='Video Demo' />
+<img src='https://github.com/crive256/DigimonRecycler/blob/main/DigimonAPI.gif' title='Digimon' width='600' alt='Video Demo' />
 
 GIF created with **your chosen GIF tool**
 
